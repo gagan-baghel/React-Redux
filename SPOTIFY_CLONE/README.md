@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project ROCKON--APP
 
 Develop an elegant React.js Music Application. 
 
