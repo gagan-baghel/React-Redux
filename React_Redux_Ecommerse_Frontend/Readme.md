@@ -23,10 +23,13 @@ NETLIFY HOISTED LINK----- https://smartshopping-react-redux.netlify.app/
 
 
 ## Installation & Setup 
-1. Clone the repository: ```shell git clone https://github.com/gagan-baghel/React-Redux.git ```  
-2. visit directory ```shell cd React_Redux_Ecommerse_Frontend ```  
-3. Install dependencies: ```shell npm install ```  
-4. Start the development server: ```shell npm run dev ```  
+1. Clone the repository: 
+ ```shell 
+    git clone https://github.com/gagan-baghel/React-Redux.git 
+  ```  
+3. visit directory ```shell cd React_Redux_Ecommerse_Frontend ```  
+4. Install dependencies: ```shell npm install ```  
+5. Start the development server: ```shell npm run dev ```  
 
  ## Usage  
 1. Browse the products on the homepage or use the search bar to find what you're looking for  
