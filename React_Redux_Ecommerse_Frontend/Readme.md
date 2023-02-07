@@ -12,8 +12,8 @@ customers to browse and purchase products.
 ![ResponsiveReduxEcommerce](https://user-images.githubusercontent.com/78648366/217262711-07e37ac9-1f2e-4505-8b98-10c29f6a6068.gif)
 
 
-### used --> |React--Redux--React-Dom--React-Router--React-Tostify--Link--axios|
-#### Hooks Used |--useState--useEffect--useDispatch -- useSelector--useParams--|
+### Used --> |React--Redux--React-Dom--React-Router--React-Tostify--Link--axios|
+### Hooks Used |--useState--useEffect--useDispatch -- useSelector--useParams--|
 
 ## Features
 * Responsive design for desktop, tablet and mobile devices. 
