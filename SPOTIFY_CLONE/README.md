@@ -1,6 +1,11 @@
 # Project ROCKON--APP
 
-Develop an elegant React.js Music Application. 
+NETLIFY HOISTED LINK----- https://gaganbaghel-rockon.netlify.app/
+
+This is a music player website all the songs are fetched from website using shazamCoreAPI and diplayed on the screen.
+
+* HERE IS THE VISUAL REPRESENTATION OF THIS PROJECT *
+
 
 
 ## System Requirements
