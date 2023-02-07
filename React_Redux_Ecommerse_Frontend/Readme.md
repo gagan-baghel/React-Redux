@@ -2,9 +2,9 @@
 
 NETLIFY HOISTED LINK----- https://smartshopping-react-redux.netlify.app/
 
-This is a Responsive React frontend for an ecommerce website.<br>
-it Fetched data from a FakeStore api and represent the data in a user Readable manner provides a user-friendly interface for <br>
-customers to browse and purchase products.
+  This is a Responsive React frontend for an ecommerce website.<br>
+  it Fetched data from a FakeStore api and represent the data in a user Readable manner provides a user-friendly interface for <br>
+  customers to browse and purchase products.
 
 ** HERE IS THE VISUAL REPRESENTATION OF THIS PROJECT **
 
