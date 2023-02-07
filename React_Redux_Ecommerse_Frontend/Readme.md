@@ -1,5 +1,3 @@
-# React Ecommerce Frontend
-
 # React_Redux_Ecommerse
 
 NETLIFY HOISTED LINK----- https://smartshopping-react-redux.netlify.app/
