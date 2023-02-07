@@ -41,10 +41,11 @@ npm run dev
 ```  
 
  ## Usage  
-1. Browse the products on the homepage or use the search bar to find what you're looking for  
+1. Browse the products on the homepage find what you're looking for  
 2. Add items to your cart by clicking the "Add to Cart" button on each product page  
 3. When you're ready to check out, click on the shopping cart icon in the top right corner of your screen  
-4. Enter your payment information and click "Place Order" to complete your purchase  
+4. Enter your cupon information and click "Apply" to get 50% off
+5. enter checkout to place order.  
 
  ## Contributing  
 We welcome contributions from anyone who would like to help
